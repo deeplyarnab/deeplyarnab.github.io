@@ -1,0 +1,1 @@
+When image is clicked, to open it on same window for view, look at eg from "multiverse" from html5up
